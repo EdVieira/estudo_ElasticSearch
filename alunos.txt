@@ -1,0 +1,1301 @@
+
+POST catalogo/alunos
+{
+	"aluno": "Xantha",
+	"disciplinasCursando":["Redes de Computadores", "Sistemas Distribuídos", "Sistemas Operacionais"],
+	"disciplinasCursadas":["Tecnologias da Informação", "Algoritmos e Programação de Computadores", "Sistemas Operacionais", "Construção de Compiladores"],
+	"curso": "Id Ante Dictum LLC",
+	"ingresso": "2018-05-20",
+	"egresso": "2018-06-23",
+	"nascimento": "2018-04-18",
+	"cidade": "Tallahassee",
+	"estado": "FL",
+	"pais": "Benin"
+}
+POST catalogo/alunos
+{
+	"aluno": "Herman",
+	"disciplinasCursando":["Redes de Computadores", "Tecnologias da Informação"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Operacionais"],
+	"curso": "Nulla Foundation",
+	"ingresso": "2019-07-29",
+	"egresso": "2019-03-23",
+	"nascimento": "2018-03-19",
+	"cidade": "Ceyhan",
+	"estado": "Adana",
+	"pais": "Nauru"
+}
+POST catalogo/alunos
+{
+	"aluno": "Gavin",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Tecnologias da Informação"],
+	"curso": "Malesuada Industries",
+	"ingresso": "2019-01-23",
+	"egresso": "2018-01-23",
+	"nascimento": "2019-02-04",
+	"cidade": "Reading",
+	"estado": "Pennsylvania",
+	"pais": "Saint Vincent and The Grenadines"
+}
+POST catalogo/alunos
+{
+	"aluno": "Lacey",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":[""],
+	"curso": "Ut Dolor Inc.",
+	"ingresso": "2018-09-26",
+	"egresso": "2019-05-31",
+	"nascimento": "2019-03-06",
+	"cidade": "Montbéliard",
+	"estado": "Franche-Comté",
+	"pais": "Kenya"
+}
+POST catalogo/alunos
+{
+	"aluno": "Shelly",
+	"disciplinasCursando":["Redes de Computadores", "Sistemas Distribuídos", "Sistemas Operacionais"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação"],
+	"curso": "Euismod Consulting",
+	"ingresso": "2018-08-27",
+	"egresso": "2018-04-10",
+	"nascimento": "2019-01-06",
+	"cidade": "Hamburg",
+	"estado": "Hamburg",
+	"pais": "Namibia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Lee",
+	"disciplinasCursando":["Construção de Compiladores", "Sistemas Operacionais"],
+	"disciplinasCursadas":[""],
+	"curso": "Erat Neque Ltd",
+	"ingresso": "2017-11-03",
+	"egresso": "2018-10-19",
+	"nascimento": "2019-08-03",
+	"cidade": "Galzignano Terme",
+	"estado": "VEN",
+	"pais": "Cape Verde"
+}
+POST catalogo/alunos
+{
+	"aluno": "Kyle",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":[""],
+	"curso": "Lobortis Nisi Nibh LLP",
+	"ingresso": "2019-02-22",
+	"egresso": "2018-11-22",
+	"nascimento": "2018-11-19",
+	"cidade": "Lagos",
+	"estado": "LA",
+	"pais": "Bolivia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Jackson",
+	"disciplinasCursando":["Algoritmos e Programação de Computadores", "Construção de Compiladores"],
+	"disciplinasCursadas":[""],
+	"curso": "Elit Inc.",
+	"ingresso": "2018-10-16",
+	"egresso": "2019-04-26",
+	"nascimento": "2018-02-05",
+	"cidade": "Maiduguri",
+	"estado": "Borno",
+	"pais": "Antigua and Barbuda"
+}
+POST catalogo/alunos
+{
+	"aluno": "Burke",
+	"disciplinasCursando":["Algoritmos e Programação de Computadores", "Redes de Computadores", "Construção de Compiladores"],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Construção de Compiladores", "Redes de Computadores", "Sistemas Operacionais"],
+	"curso": "Nulla Vulputate Dui Associates",
+	"ingresso": "2018-02-04",
+	"egresso": "2018-08-17",
+	"nascimento": "2019-02-04",
+	"cidade": "Imperatriz",
+	"estado": "MA",
+	"pais": "Malta"
+}
+POST catalogo/alunos
+{
+	"aluno": "Kennedy",
+	"disciplinasCursando":["Algoritmos e Programação de Computadores", "Sistemas Operacionais", "Fundamentos Matemáticos da Computação", "Tecnologias da Informação"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Sistemas Distribuídos"],
+	"curso": "Purus In Molestie Associates",
+	"ingresso": "2018-11-14",
+	"egresso": "2018-01-12",
+	"nascimento": "2019-05-02",
+	"cidade": "Kungälv",
+	"estado": "Västra Götalands län",
+	"pais": "Côte D'Ivoire (Ivory Coast)"
+}
+POST catalogo/alunos
+{
+	"aluno": "Travis",
+	"disciplinasCursando":["Redes de Computadores", "Sistemas Operacionais", "Tecnologias da Informação", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":[""],
+	"curso": "Integer Aliquam Adipiscing Company",
+	"ingresso": "2017-10-16",
+	"egresso": "2019-07-14",
+	"nascimento": "2017-12-20",
+	"cidade": "Bihar Sharif",
+	"estado": "BR",
+	"pais": "Viet Nam"
+}
+POST catalogo/alunos
+{
+	"aluno": "Cassady",
+	"disciplinasCursando":["Tecnologias da Informação", "Algoritmos e Programação de Computadores", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Tecnologias da Informação", "Fundamentos Matemáticos da Computação", "Construção de Compiladores"],
+	"curso": "Duis Inc.",
+	"ingresso": "2018-01-02",
+	"egresso": "2019-03-09",
+	"nascimento": "2018-04-11",
+	"cidade": "Raurkela",
+	"estado": "Odisha",
+	"pais": "Mali"
+}
+POST catalogo/alunos
+{
+	"aluno": "Maite",
+	"disciplinasCursando":["Redes de Computadores", "Algoritmos e Programação de Computadores", "Tecnologias da Informação", "Sistemas Distribuídos"],
+	"disciplinasCursadas":["Algoritmos e Programação de Computadores", "Sistemas Distribuídos", "Construção de Compiladores", "Sistemas Operacionais"],
+	"curso": "Et Netus Institute",
+	"ingresso": "2019-01-04",
+	"egresso": "2017-10-07",
+	"nascimento": "2019-10-05",
+	"cidade": "San Diego",
+	"estado": "CA",
+	"pais": "Trinidad and Tobago"
+}
+POST catalogo/alunos
+{
+	"aluno": "Jeremy",
+	"disciplinasCursando":["Fundamentos Matemáticos da Computação", "Sistemas Distribuídos", "Redes de Computadores"],
+	"disciplinasCursadas":["Redes de Computadores"],
+	"curso": "Semper LLP",
+	"ingresso": "2018-08-19",
+	"egresso": "2019-06-23",
+	"nascimento": "2019-01-18",
+	"cidade": "Philadelphia",
+	"estado": "PA",
+	"pais": "Djibouti"
+}
+POST catalogo/alunos
+{
+	"aluno": "Branden",
+	"disciplinasCursando":["Sistemas Distribuídos"],
+	"disciplinasCursadas":["Redes de Computadores", "Tecnologias da Informação", "Construção de Compiladores"],
+	"curso": "Semper Nam Ltd",
+	"ingresso": "2018-03-23",
+	"egresso": "2019-06-07",
+	"nascimento": "2019-07-09",
+	"cidade": "Rzeszów",
+	"estado": "PK",
+	"pais": "Albania"
+}
+POST catalogo/alunos
+{
+	"aluno": "Macey",
+	"disciplinasCursando":["Algoritmos e Programação de Computadores", "Fundamentos Matemáticos da Computação", "Sistemas Operacionais"],
+	"disciplinasCursadas":[""],
+	"curso": "Curabitur Consequat Company",
+	"ingresso": "2019-03-08",
+	"egresso": "2019-08-14",
+	"nascimento": "2017-12-05",
+	"cidade": "Lexington",
+	"estado": "Kentucky",
+	"pais": "Bahrain"
+}
+POST catalogo/alunos
+{
+	"aluno": "Brenden",
+	"disciplinasCursando":["Sistemas Distribuídos", "Construção de Compiladores"],
+	"disciplinasCursadas":[""],
+	"curso": "Sit Amet Corporation",
+	"ingresso": "2018-07-04",
+	"egresso": "2018-04-28",
+	"nascimento": "2018-05-28",
+	"cidade": "Galashiels",
+	"estado": "SE",
+	"pais": "Ecuador"
+}
+POST catalogo/alunos
+{
+	"aluno": "Emi",
+	"disciplinasCursando":["Redes de Computadores", "Construção de Compiladores", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Sistemas Operacionais"],
+	"curso": "Ac Feugiat Non Associates",
+	"ingresso": "2017-10-08",
+	"egresso": "2019-07-13",
+	"nascimento": "2018-05-07",
+	"cidade": "Picton",
+	"estado": "SI",
+	"pais": "Viet Nam"
+}
+POST catalogo/alunos
+{
+	"aluno": "Flavia",
+	"disciplinasCursando":["Sistemas Operacionais", "Sistemas Distribuídos", "Construção de Compiladores", "Algoritmos e Programação de Computadores"],
+	"disciplinasCursadas":["Redes de Computadores", "Construção de Compiladores", "Fundamentos Matemáticos da Computação", "Sistemas Operacionais"],
+	"curso": "Vitae Limited",
+	"ingresso": "2019-03-19",
+	"egresso": "2018-08-26",
+	"nascimento": "2018-10-14",
+	"cidade": "Dutse",
+	"estado": "JI",
+	"pais": "Jamaica"
+}
+POST catalogo/alunos
+{
+	"aluno": "Chantale",
+	"disciplinasCursando":["Sistemas Distribuídos", "Sistemas Operacionais", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Operacionais", "Tecnologias da Informação", "Algoritmos e Programação de Computadores"],
+	"curso": "Curabitur Consequat Corp.",
+	"ingresso": "2019-09-25",
+	"egresso": "2018-05-15",
+	"nascimento": "2018-06-14",
+	"cidade": "Vienna",
+	"estado": "Vienna",
+	"pais": "Sri Lanka"
+}
+POST catalogo/alunos
+{
+	"aluno": "Perry",
+	"disciplinasCursando":["Construção de Compiladores", "Fundamentos Matemáticos da Computação", "Sistemas Operacionais"],
+	"disciplinasCursadas":[""],
+	"curso": "Euismod Est Arcu LLC",
+	"ingresso": "2018-05-07",
+	"egresso": "2018-09-24",
+	"nascimento": "2019-01-02",
+	"cidade": "Bonlez",
+	"estado": "Waals-Brabant",
+	"pais": "French Guiana"
+}
+POST catalogo/alunos
+{
+	"aluno": "Urielle",
+	"disciplinasCursando":["Construção de Compiladores", "Redes de Computadores", "Sistemas Distribuídos", "Sistemas Operacionais"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Operacionais", "Tecnologias da Informação", "Construção de Compiladores"],
+	"curso": "Dui Semper Institute",
+	"ingresso": "2019-07-29",
+	"egresso": "2018-10-02",
+	"nascimento": "2018-10-09",
+	"cidade": "Vienna",
+	"estado": "Vienna",
+	"pais": "Uzbekistan"
+}
+POST catalogo/alunos
+{
+	"aluno": "Molly",
+	"disciplinasCursando":["Sistemas Distribuídos"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Redes de Computadores"],
+	"curso": "Sed Sapien Nunc Corp.",
+	"ingresso": "2018-06-19",
+	"egresso": "2019-02-06",
+	"nascimento": "2018-02-03",
+	"cidade": "Amsterdam",
+	"estado": "N.",
+	"pais": "Sri Lanka"
+}
+POST catalogo/alunos
+{
+	"aluno": "Lillian",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Algoritmos e Programação de Computadores"],
+	"curso": "Vivamus Nibh Limited",
+	"ingresso": "2019-05-06",
+	"egresso": "2018-12-26",
+	"nascimento": "2019-05-29",
+	"cidade": "Bellevue",
+	"estado": "NE",
+	"pais": "Croatia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Mufutau",
+	"disciplinasCursando":["Tecnologias da Informação"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Tecnologias da Informação", "Algoritmos e Programação de Computadores", "Redes de Computadores"],
+	"curso": "Augue Incorporated",
+	"ingresso": "2017-10-08",
+	"egresso": "2018-05-06",
+	"nascimento": "2018-10-04",
+	"cidade": "Albi",
+	"estado": "Midi-Pyrénées",
+	"pais": "French Guiana"
+}
+POST catalogo/alunos
+{
+	"aluno": "Carlos",
+	"disciplinasCursando":["Tecnologias da Informação", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Operacionais"],
+	"curso": "Sed Inc.",
+	"ingresso": "2019-06-02",
+	"egresso": "2018-05-24",
+	"nascimento": "2019-05-14",
+	"cidade": "Evansville",
+	"estado": "IN",
+	"pais": "Iraq"
+}
+POST catalogo/alunos
+{
+	"aluno": "Colton",
+	"disciplinasCursando":["Sistemas Distribuídos", "Algoritmos e Programação de Computadores", "Tecnologias da Informação"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Algoritmos e Programação de Computadores"],
+	"curso": "Magna Malesuada Vel Ltd",
+	"ingresso": "2018-11-23",
+	"egresso": "2017-12-27",
+	"nascimento": "2018-10-05",
+	"cidade": "Port Augusta",
+	"estado": "SA",
+	"pais": "Ecuador"
+}
+POST catalogo/alunos
+{
+	"aluno": "Rigel",
+	"disciplinasCursando":["Sistemas Operacionais", "Algoritmos e Programação de Computadores", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":[""],
+	"curso": "Convallis Company",
+	"ingresso": "2017-12-03",
+	"egresso": "2018-12-11",
+	"nascimento": "2018-02-22",
+	"cidade": "Galway",
+	"estado": "Connacht",
+	"pais": "Mozambique"
+}
+POST catalogo/alunos
+{
+	"aluno": "Zelda",
+	"disciplinasCursando":["Redes de Computadores", "Sistemas Operacionais", "Tecnologias da Informação", "Construção de Compiladores"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Construção de Compiladores"],
+	"curso": "Blandit Foundation",
+	"ingresso": "2017-10-15",
+	"egresso": "2018-07-10",
+	"nascimento": "2018-07-09",
+	"cidade": "Istanbul",
+	"estado": "Istanbul",
+	"pais": "United Kingdom (Great Britain)"
+}
+POST catalogo/alunos
+{
+	"aluno": "Jessamine",
+	"disciplinasCursando":["Sistemas Distribuídos", "Fundamentos Matemáticos da Computação", "Tecnologias da Informação", "Redes de Computadores"],
+	"disciplinasCursadas":["Redes de Computadores", "Tecnologias da Informação"],
+	"curso": "Ullamcorper Consulting",
+	"ingresso": "2018-04-28",
+	"egresso": "2018-03-13",
+	"nascimento": "2017-10-30",
+	"cidade": "Gävle",
+	"estado": "Gävleborgs län",
+	"pais": "American Samoa"
+}
+POST catalogo/alunos
+{
+	"aluno": "Christian",
+	"disciplinasCursando":["Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Construção de Compiladores", "Tecnologias da Informação", "Fundamentos Matemáticos da Computação"],
+	"curso": "Ipsum Primis Foundation",
+	"ingresso": "2018-05-21",
+	"egresso": "2019-06-18",
+	"nascimento": "2019-04-19",
+	"cidade": "Thorold",
+	"estado": "Ontario",
+	"pais": "Macao"
+}
+POST catalogo/alunos
+{
+	"aluno": "Dominic",
+	"disciplinasCursando":["Sistemas Operacionais"],
+	"disciplinasCursadas":[""],
+	"curso": "Morbi Institute",
+	"ingresso": "2018-10-08",
+	"egresso": "2019-02-22",
+	"nascimento": "2019-09-03",
+	"cidade": "Sauvenire",
+	"estado": "NA",
+	"pais": "Jordan"
+}
+POST catalogo/alunos
+{
+	"aluno": "Edward",
+	"disciplinasCursando":["Fundamentos Matemáticos da Computação", "Construção de Compiladores", "Sistemas Operacionais"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Tecnologias da Informação", "Algoritmos e Programação de Computadores"],
+	"curso": "Nunc Risus Inc.",
+	"ingresso": "2018-04-04",
+	"egresso": "2019-08-05",
+	"nascimento": "2018-08-29",
+	"cidade": "Lerum",
+	"estado": "O",
+	"pais": "Uganda"
+}
+POST catalogo/alunos
+{
+	"aluno": "Ora",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":[""],
+	"curso": "Nec Diam Duis Foundation",
+	"ingresso": "2019-03-25",
+	"egresso": "2019-03-03",
+	"nascimento": "2019-05-24",
+	"cidade": "Galway",
+	"estado": "Connacht",
+	"pais": "Saint Vincent and The Grenadines"
+}
+POST catalogo/alunos
+{
+	"aluno": "Venus",
+	"disciplinasCursando":["Fundamentos Matemáticos da Computação", "Sistemas Operacionais", "Redes de Computadores", "Construção de Compiladores"],
+	"disciplinasCursadas":["Construção de Compiladores", "Algoritmos e Programação de Computadores", "Fundamentos Matemáticos da Computação"],
+	"curso": "In Dolor Industries",
+	"ingresso": "2018-03-29",
+	"egresso": "2017-12-29",
+	"nascimento": "2019-07-02",
+	"cidade": "Nicoya",
+	"estado": "G",
+	"pais": "Belgium"
+}
+POST catalogo/alunos
+{
+	"aluno": "Cecilia",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Distribuídos"],
+	"curso": "Sodales Mauris Blandit Industries",
+	"ingresso": "2019-06-27",
+	"egresso": "2019-05-20",
+	"nascimento": "2018-09-10",
+	"cidade": "Berlin",
+	"estado": "BE",
+	"pais": "Grenada"
+}
+POST catalogo/alunos
+{
+	"aluno": "Deacon",
+	"disciplinasCursando":["Sistemas Operacionais", "Tecnologias da Informação", "Redes de Computadores"],
+	"disciplinasCursadas":[""],
+	"curso": "Mus Proin Consulting",
+	"ingresso": "2019-04-20",
+	"egresso": "2018-04-24",
+	"nascimento": "2018-01-20",
+	"cidade": "Marbella",
+	"estado": "AN",
+	"pais": "Chad"
+}
+POST catalogo/alunos
+{
+	"aluno": "Amos",
+	"disciplinasCursando":["Redes de Computadores"],
+	"disciplinasCursadas":[""],
+	"curso": "Tempor Bibendum Institute",
+	"ingresso": "2018-01-04",
+	"egresso": "2019-04-17",
+	"nascimento": "2018-12-31",
+	"cidade": "Corby",
+	"estado": "Northamptonshire",
+	"pais": "Brazil"
+}
+POST catalogo/alunos
+{
+	"aluno": "Tucker",
+	"disciplinasCursando":["Redes de Computadores"],
+	"disciplinasCursadas":["Redes de Computadores"],
+	"curso": "Enim Non Nisi PC",
+	"ingresso": "2018-11-22",
+	"egresso": "2017-11-10",
+	"nascimento": "2018-03-14",
+	"cidade": "Launceston",
+	"estado": "Tasmania",
+	"pais": "United Arab Emirates"
+}
+POST catalogo/alunos
+{
+	"aluno": "Cairo",
+	"disciplinasCursando":["Sistemas Operacionais"],
+	"disciplinasCursadas":["Sistemas Operacionais"],
+	"curso": "Feugiat Incorporated",
+	"ingresso": "2018-02-24",
+	"egresso": "2018-01-19",
+	"nascimento": "2019-07-05",
+	"cidade": "New Bombay",
+	"estado": "MH",
+	"pais": "Norfolk Island"
+}
+POST catalogo/alunos
+{
+	"aluno": "Nolan",
+	"disciplinasCursando":["Construção de Compiladores", "Tecnologias da Informação", "Algoritmos e Programação de Computadores", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Tecnologias da Informação", "Redes de Computadores", "Sistemas Distribuídos", "Fundamentos Matemáticos da Computação"],
+	"curso": "Dolor Inc.",
+	"ingresso": "2018-07-23",
+	"egresso": "2018-05-28",
+	"nascimento": "2017-11-04",
+	"cidade": "Stonewall",
+	"estado": "Manitoba",
+	"pais": "Palestine, State of"
+}
+POST catalogo/alunos
+{
+	"aluno": "Callum",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Tecnologias da Informação", "Redes de Computadores", "Algoritmos e Programação de Computadores", "Sistemas Distribuídos"],
+	"curso": "Risus A Ultricies Limited",
+	"ingresso": "2018-10-04",
+	"egresso": "2018-04-03",
+	"nascimento": "2018-04-07",
+	"cidade": "Alacant",
+	"estado": "CV",
+	"pais": "Fiji"
+}
+POST catalogo/alunos
+{
+	"aluno": "Felix",
+	"disciplinasCursando":["Construção de Compiladores", "Algoritmos e Programação de Computadores"],
+	"disciplinasCursadas":[""],
+	"curso": "Aliquam Gravida PC",
+	"ingresso": "2018-08-02",
+	"egresso": "2019-06-21",
+	"nascimento": "2018-12-13",
+	"cidade": "Osasco",
+	"estado": "São Paulo",
+	"pais": "Fiji"
+}
+POST catalogo/alunos
+{
+	"aluno": "Hyatt",
+	"disciplinasCursando":["Sistemas Operacionais", "Construção de Compiladores", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Redes de Computadores", "Algoritmos e Programação de Computadores", "Sistemas Operacionais"],
+	"curso": "Posuere Cubilia Foundation",
+	"ingresso": "2018-11-21",
+	"egresso": "2018-01-28",
+	"nascimento": "2017-11-20",
+	"cidade": "Laramie",
+	"estado": "Wyoming",
+	"pais": "Ireland"
+}
+POST catalogo/alunos
+{
+	"aluno": "Adara",
+	"disciplinasCursando":["Sistemas Distribuídos"],
+	"disciplinasCursadas":["Sistemas Distribuídos"],
+	"curso": "Suscipit Corporation",
+	"ingresso": "2018-11-14",
+	"egresso": "2018-05-24",
+	"nascimento": "2019-08-05",
+	"cidade": "Oss",
+	"estado": "N.",
+	"pais": "Palestine, State of"
+}
+POST catalogo/alunos
+{
+	"aluno": "Xerxes",
+	"disciplinasCursando":["Tecnologias da Informação"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Construção de Compiladores", "Fundamentos Matemáticos da Computação"],
+	"curso": "Ipsum Associates",
+	"ingresso": "2018-10-06",
+	"egresso": "2019-07-17",
+	"nascimento": "2019-08-24",
+	"cidade": "Galway",
+	"estado": "C",
+	"pais": "American Samoa"
+}
+POST catalogo/alunos
+{
+	"aluno": "Pascale",
+	"disciplinasCursando":["Construção de Compiladores", "Sistemas Operacionais", "Tecnologias da Informação"],
+	"disciplinasCursadas":["Algoritmos e Programação de Computadores", "Sistemas Operacionais", "Fundamentos Matemáticos da Computação"],
+	"curso": "Purus Corp.",
+	"ingresso": "2019-03-07",
+	"egresso": "2018-05-17",
+	"nascimento": "2017-12-12",
+	"cidade": "Hamilton",
+	"estado": "VIC",
+	"pais": "Monaco"
+}
+POST catalogo/alunos
+{
+	"aluno": "Hakeem",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Algoritmos e Programação de Computadores", "Tecnologias da Informação", "Sistemas Operacionais", "Redes de Computadores"],
+	"curso": "Ut Corp.",
+	"ingresso": "2018-07-13",
+	"egresso": "2018-10-28",
+	"nascimento": "2019-07-22",
+	"cidade": "Nancy",
+	"estado": "Lorraine",
+	"pais": "Hungary"
+}
+POST catalogo/alunos
+{
+	"aluno": "Jayme",
+	"disciplinasCursando":["Redes de Computadores", "Sistemas Operacionais", "Sistemas Distribuídos", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Tecnologias da Informação", "Algoritmos e Programação de Computadores", "Sistemas Operacionais", "Construção de Compiladores"],
+	"curso": "Gravida Non Corp.",
+	"ingresso": "2018-12-09",
+	"egresso": "2018-08-16",
+	"nascimento": "2019-07-22",
+	"cidade": "Vienna",
+	"estado": "Wie",
+	"pais": "Estonia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Alika",
+	"disciplinasCursando":["Fundamentos Matemáticos da Computação", "Tecnologias da Informação"],
+	"disciplinasCursadas":["Redes de Computadores", "Construção de Compiladores"],
+	"curso": "Pede Foundation",
+	"ingresso": "2018-06-08",
+	"egresso": "2019-04-08",
+	"nascimento": "2018-04-10",
+	"cidade": "Argenteuil",
+	"estado": "Île-de-France",
+	"pais": "Timor-Leste"
+}
+POST catalogo/alunos
+{
+	"aluno": "Benjamin",
+	"disciplinasCursando":["Sistemas Distribuídos"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Construção de Compiladores", "Tecnologias da Informação", "Redes de Computadores"],
+	"curso": "Magna Suspendisse Corp.",
+	"ingresso": "2018-12-18",
+	"egresso": "2018-02-28",
+	"nascimento": "2019-05-19",
+	"cidade": "Haren",
+	"estado": "BU",
+	"pais": "Cuba"
+}
+POST catalogo/alunos
+{
+	"aluno": "Aurora",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Sistemas Operacionais"],
+	"curso": "Dapibus Corp.",
+	"ingresso": "2019-03-06",
+	"egresso": "2018-10-25",
+	"nascimento": "2018-11-18",
+	"cidade": "Schleswig",
+	"estado": "SL",
+	"pais": "Guyana"
+}
+POST catalogo/alunos
+{
+	"aluno": "Kuame",
+	"disciplinasCursando":["Fundamentos Matemáticos da Computação", "Algoritmos e Programação de Computadores", "Sistemas Operacionais"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Tecnologias da Informação", "Sistemas Distribuídos"],
+	"curso": "Ipsum Inc.",
+	"ingresso": "2019-08-06",
+	"egresso": "2018-11-04",
+	"nascimento": "2018-03-15",
+	"cidade": "Galway",
+	"estado": "Connacht",
+	"pais": "Netherlands"
+}
+POST catalogo/alunos
+{
+	"aluno": "Bruno",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Construção de Compiladores", "Tecnologias da Informação", "Sistemas Operacionais", "Redes de Computadores"],
+	"curso": "Turpis Nec Limited",
+	"ingresso": "2019-08-11",
+	"egresso": "2019-06-04",
+	"nascimento": "2018-06-20",
+	"cidade": "Livo",
+	"estado": "TAA",
+	"pais": "Heard Island and Mcdonald Islands"
+}
+POST catalogo/alunos
+{
+	"aluno": "Amity",
+	"disciplinasCursando":["Sistemas Operacionais"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Operacionais"],
+	"curso": "Integer Institute",
+	"ingresso": "2017-10-15",
+	"egresso": "2018-07-17",
+	"nascimento": "2019-07-07",
+	"cidade": "Portland",
+	"estado": "Maine",
+	"pais": "Georgia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Camille",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Fundamentos Matemáticos da Computação"],
+	"curso": "Pede Praesent Eu Foundation",
+	"ingresso": "2017-11-02",
+	"egresso": "2018-06-24",
+	"nascimento": "2019-02-16",
+	"cidade": "Develi",
+	"estado": "Kay",
+	"pais": "Mauritania"
+}
+POST catalogo/alunos
+{
+	"aluno": "Alfonso",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Tecnologias da Informação", "Algoritmos e Programação de Computadores", "Sistemas Operacionais", "Redes de Computadores"],
+	"curso": "Lorem Corporation",
+	"ingresso": "2018-08-08",
+	"egresso": "2017-11-20",
+	"nascimento": "2018-06-27",
+	"cidade": "Aubervilliers",
+	"estado": "IL",
+	"pais": "Cameroon"
+}
+POST catalogo/alunos
+{
+	"aluno": "Griffin",
+	"disciplinasCursando":["Tecnologias da Informação", "Sistemas Distribuídos"],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Construção de Compiladores", "Algoritmos e Programação de Computadores"],
+	"curso": "Dictum Associates",
+	"ingresso": "2018-07-30",
+	"egresso": "2017-10-15",
+	"nascimento": "2019-08-23",
+	"cidade": "Great Falls",
+	"estado": "MT",
+	"pais": "Mozambique"
+}
+POST catalogo/alunos
+{
+	"aluno": "Cherokee",
+	"disciplinasCursando":["Redes de Computadores", "Algoritmos e Programação de Computadores", "Construção de Compiladores"],
+	"disciplinasCursadas":[""],
+	"curso": "Nascetur Ridiculus Incorporated",
+	"ingresso": "2017-10-16",
+	"egresso": "2018-06-03",
+	"nascimento": "2018-01-08",
+	"cidade": "Limburg a.d. Lahn",
+	"estado": "Hesse",
+	"pais": "Puerto Rico"
+}
+POST catalogo/alunos
+{
+	"aluno": "Patrick",
+	"disciplinasCursando":["Sistemas Operacionais", "Algoritmos e Programação de Computadores"],
+	"disciplinasCursadas":["Tecnologias da Informação", "Construção de Compiladores", "Sistemas Operacionais"],
+	"curso": "Est Industries",
+	"ingresso": "2018-07-17",
+	"egresso": "2019-05-15",
+	"nascimento": "2018-12-21",
+	"cidade": "Schiltigheim",
+	"estado": "AL",
+	"pais": "Tuvalu"
+}
+POST catalogo/alunos
+{
+	"aluno": "Sylvester",
+	"disciplinasCursando":["Sistemas Distribuídos", "Construção de Compiladores", "Algoritmos e Programação de Computadores"],
+	"disciplinasCursadas":[""],
+	"curso": "Feugiat Non Associates",
+	"ingresso": "2018-03-24",
+	"egresso": "2018-02-03",
+	"nascimento": "2019-08-22",
+	"cidade": "Minneapolis",
+	"estado": "Minnesota",
+	"pais": "Cayman Islands"
+}
+POST catalogo/alunos
+{
+	"aluno": "Hakeem",
+	"disciplinasCursando":["Sistemas Distribuídos", "Sistemas Operacionais", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Redes de Computadores", "Sistemas Operacionais", "Algoritmos e Programação de Computadores"],
+	"curso": "Dictum Foundation",
+	"ingresso": "2019-01-12",
+	"egresso": "2018-08-29",
+	"nascimento": "2018-03-17",
+	"cidade": "Las Cabras",
+	"estado": "VI",
+	"pais": "Guatemala"
+}
+POST catalogo/alunos
+{
+	"aluno": "Lawrence",
+	"disciplinasCursando":["Tecnologias da Informação", "Fundamentos Matemáticos da Computação", "Sistemas Distribuídos", "Redes de Computadores"],
+	"disciplinasCursadas":["Redes de Computadores"],
+	"curso": "At Consulting",
+	"ingresso": "2018-10-13",
+	"egresso": "2018-03-14",
+	"nascimento": "2018-08-03",
+	"cidade": "Foz do Iguaçu",
+	"estado": "Paraná",
+	"pais": "Czech Republic"
+}
+POST catalogo/alunos
+{
+	"aluno": "Erasmus",
+	"disciplinasCursando":["Redes de Computadores"],
+	"disciplinasCursadas":["Construção de Compiladores", "Redes de Computadores", "Fundamentos Matemáticos da Computação", "Tecnologias da Informação"],
+	"curso": "Ut PC",
+	"ingresso": "2017-12-10",
+	"egresso": "2018-11-21",
+	"nascimento": "2019-07-11",
+	"cidade": "Waiuku",
+	"estado": "North Island",
+	"pais": "Palestine, State of"
+}
+POST catalogo/alunos
+{
+	"aluno": "Steven",
+	"disciplinasCursando":["Redes de Computadores", "Tecnologias da Informação", "Construção de Compiladores"],
+	"disciplinasCursadas":[""],
+	"curso": "Amet Luctus Vulputate Ltd",
+	"ingresso": "2019-01-07",
+	"egresso": "2018-12-19",
+	"nascimento": "2018-10-05",
+	"cidade": "Istanbul",
+	"estado": "Istanbul",
+	"pais": "Australia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Jolene",
+	"disciplinasCursando":["Sistemas Distribuídos", "Redes de Computadores", "Construção de Compiladores", "Tecnologias da Informação"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Fundamentos Matemáticos da Computação", "Redes de Computadores"],
+	"curso": "Sed Leo Cras Incorporated",
+	"ingresso": "2017-11-24",
+	"egresso": "2018-10-25",
+	"nascimento": "2018-05-07",
+	"cidade": "South Bend",
+	"estado": "IN",
+	"pais": "United States"
+}
+POST catalogo/alunos
+{
+	"aluno": "Rahim",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Sistemas Operacionais", "Tecnologias da Informação", "Sistemas Distribuídos"],
+	"curso": "Et Lacinia Ltd",
+	"ingresso": "2019-05-02",
+	"egresso": "2019-05-09",
+	"nascimento": "2019-07-04",
+	"cidade": "Kapuskasing",
+	"estado": "Ontario",
+	"pais": "Mexico"
+}
+POST catalogo/alunos
+{
+	"aluno": "Isaiah",
+	"disciplinasCursando":["Redes de Computadores", "Sistemas Operacionais"],
+	"disciplinasCursadas":["Sistemas Distribuídos"],
+	"curso": "Lorem Sit Corporation",
+	"ingresso": "2018-12-19",
+	"egresso": "2018-11-16",
+	"nascimento": "2017-11-24",
+	"cidade": "Vienna",
+	"estado": "Wie",
+	"pais": "Togo"
+}
+POST catalogo/alunos
+{
+	"aluno": "Winter",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Redes de Computadores", "Tecnologias da Informação", "Sistemas Distribuídos", "Fundamentos Matemáticos da Computação"],
+	"curso": "Tellus Corp.",
+	"ingresso": "2018-01-03",
+	"egresso": "2019-07-08",
+	"nascimento": "2019-04-28",
+	"cidade": "Oldenzaal",
+	"estado": "Ov",
+	"pais": "Congo (Brazzaville)"
+}
+POST catalogo/alunos
+{
+	"aluno": "Xantha",
+	"disciplinasCursando":["Sistemas Operacionais", "Algoritmos e Programação de Computadores"],
+	"disciplinasCursadas":["Tecnologias da Informação", "Sistemas Distribuídos", "Algoritmos e Programação de Computadores", "Construção de Compiladores"],
+	"curso": "Enim LLP",
+	"ingresso": "2019-08-11",
+	"egresso": "2017-10-14",
+	"nascimento": "2017-10-21",
+	"cidade": "Gbongan",
+	"estado": "Osun",
+	"pais": "Rwanda"
+}
+POST catalogo/alunos
+{
+	"aluno": "Melissa",
+	"disciplinasCursando":["Sistemas Operacionais", "Redes de Computadores", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Redes de Computadores", "Tecnologias da Informação", "Fundamentos Matemáticos da Computação", "Algoritmos e Programação de Computadores"],
+	"curso": "Laoreet Posuere Enim Associates",
+	"ingresso": "2018-12-22",
+	"egresso": "2018-06-06",
+	"nascimento": "2019-08-07",
+	"cidade": "Amroha",
+	"estado": "UP",
+	"pais": "Kazakhstan"
+}
+POST catalogo/alunos
+{
+	"aluno": "Linus",
+	"disciplinasCursando":["Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Tecnologias da Informação", "Construção de Compiladores", "Fundamentos Matemáticos da Computação"],
+	"curso": "A Nunc Inc.",
+	"ingresso": "2019-01-26",
+	"egresso": "2019-04-28",
+	"nascimento": "2018-02-02",
+	"cidade": "São Gonçalo",
+	"estado": "Rio de Janeiro",
+	"pais": "Namibia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Shad",
+	"disciplinasCursando":["Construção de Compiladores", "Redes de Computadores"],
+	"disciplinasCursadas":["Construção de Compiladores", "Algoritmos e Programação de Computadores", "Redes de Computadores", "Sistemas Distribuídos"],
+	"curso": "Quis Pede Suspendisse Consulting",
+	"ingresso": "2017-11-05",
+	"egresso": "2018-02-21",
+	"nascimento": "2018-09-14",
+	"cidade": "Canberra",
+	"estado": "Australian Capital Territory",
+	"pais": "Libya"
+}
+POST catalogo/alunos
+{
+	"aluno": "Indigo",
+	"disciplinasCursando":["Sistemas Distribuídos", "Construção de Compiladores"],
+	"disciplinasCursadas":["Construção de Compiladores"],
+	"curso": "Magna Lorem Ipsum Consulting",
+	"ingresso": "2019-07-17",
+	"egresso": "2017-12-23",
+	"nascimento": "2018-12-11",
+	"cidade": "Perth",
+	"estado": "Perthshire",
+	"pais": "Turkmenistan"
+}
+POST catalogo/alunos
+{
+	"aluno": "Fiona",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Algoritmos e Programação de Computadores", "Construção de Compiladores", "Sistemas Distribuídos"],
+	"curso": "Ipsum Dolor Ltd",
+	"ingresso": "2018-11-09",
+	"egresso": "2018-10-05",
+	"nascimento": "2018-12-23",
+	"cidade": "Kano",
+	"estado": "KN",
+	"pais": "Greenland"
+}
+POST catalogo/alunos
+{
+	"aluno": "Erica",
+	"disciplinasCursando":["Tecnologias da Informação", "Sistemas Operacionais", "Sistemas Distribuídos"],
+	"disciplinasCursadas":["Construção de Compiladores", "Fundamentos Matemáticos da Computação", "Algoritmos e Programação de Computadores", "Sistemas Operacionais"],
+	"curso": "Eu Eleifend Nec Incorporated",
+	"ingresso": "2018-08-28",
+	"egresso": "2019-02-16",
+	"nascimento": "2017-11-12",
+	"cidade": "Delhi",
+	"estado": "DL",
+	"pais": "El Salvador"
+}
+POST catalogo/alunos
+{
+	"aluno": "Xavier",
+	"disciplinasCursando":["Construção de Compiladores"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Distribuídos"],
+	"curso": "Turpis PC",
+	"ingresso": "2019-02-26",
+	"egresso": "2018-07-23",
+	"nascimento": "2019-02-07",
+	"cidade": "Berlin",
+	"estado": "Berlin",
+	"pais": "Holy See (Vatican City State)"
+}
+POST catalogo/alunos
+{
+	"aluno": "Rhiannon",
+	"disciplinasCursando":["Sistemas Operacionais", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Sistemas Distribuídos", "Algoritmos e Programação de Computadores"],
+	"curso": "Et Eros Incorporated",
+	"ingresso": "2019-07-08",
+	"egresso": "2017-12-16",
+	"nascimento": "2018-04-26",
+	"cidade": "Lloydminster",
+	"estado": "AB",
+	"pais": "Brunei"
+}
+POST catalogo/alunos
+{
+	"aluno": "Paula",
+	"disciplinasCursando":["Sistemas Distribuídos", "Construção de Compiladores"],
+	"disciplinasCursadas":[""],
+	"curso": "Mauris Industries",
+	"ingresso": "2018-05-05",
+	"egresso": "2018-05-24",
+	"nascimento": "2018-10-03",
+	"cidade": "Kollam",
+	"estado": "Kerala",
+	"pais": "Niger"
+}
+POST catalogo/alunos
+{
+	"aluno": "Halla",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Tecnologias da Informação", "Sistemas Operacionais"],
+	"curso": "Ante Corp.",
+	"ingresso": "2019-05-31",
+	"egresso": "2019-02-21",
+	"nascimento": "2019-04-02",
+	"cidade": "Whitewater Region Township",
+	"estado": "ON",
+	"pais": "United Arab Emirates"
+}
+POST catalogo/alunos
+{
+	"aluno": "Price",
+	"disciplinasCursando":["Tecnologias da Informação"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Distribuídos"],
+	"curso": "Fringilla Cursus Consulting",
+	"ingresso": "2018-10-11",
+	"egresso": "2018-12-20",
+	"nascimento": "2018-11-09",
+	"cidade": "Araban",
+	"estado": "Gaziantep",
+	"pais": "United States"
+}
+POST catalogo/alunos
+{
+	"aluno": "Danielle",
+	"disciplinasCursando":["Tecnologias da Informação", "Sistemas Distribuídos"],
+	"disciplinasCursadas":["Algoritmos e Programação de Computadores", "Redes de Computadores", "Construção de Compiladores", "Fundamentos Matemáticos da Computação"],
+	"curso": "Lacinia Orci LLC",
+	"ingresso": "2019-03-30",
+	"egresso": "2018-05-29",
+	"nascimento": "2018-06-05",
+	"cidade": "Civo",
+	"estado": "LOM",
+	"pais": "Falkland Islands"
+}
+POST catalogo/alunos
+{
+	"aluno": "Lynn",
+	"disciplinasCursando":["Algoritmos e Programação de Computadores", "Construção de Compiladores", "Tecnologias da Informação", "Redes de Computadores"],
+	"disciplinasCursadas":["Construção de Compiladores"],
+	"curso": "Dictum Proin Corporation",
+	"ingresso": "2018-06-10",
+	"egresso": "2019-02-01",
+	"nascimento": "2018-02-06",
+	"cidade": "Bouffioulx",
+	"estado": "HE",
+	"pais": "Equatorial Guinea"
+}
+POST catalogo/alunos
+{
+	"aluno": "Hayes",
+	"disciplinasCursando":["Redes de Computadores", "Algoritmos e Programação de Computadores", "Sistemas Operacionais"],
+	"disciplinasCursadas":["Redes de Computadores"],
+	"curso": "Vitae Mauris Foundation",
+	"ingresso": "2019-01-19",
+	"egresso": "2018-08-01",
+	"nascimento": "2018-02-27",
+	"cidade": "Donosti",
+	"estado": "PV",
+	"pais": "Slovakia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Lacey",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação"],
+	"curso": "Ultrices Ltd",
+	"ingresso": "2018-12-02",
+	"egresso": "2017-10-20",
+	"nascimento": "2018-07-15",
+	"cidade": "Waiuku",
+	"estado": "NI",
+	"pais": "Equatorial Guinea"
+}
+POST catalogo/alunos
+{
+	"aluno": "Leonard",
+	"disciplinasCursando":["Sistemas Operacionais"],
+	"disciplinasCursadas":["Tecnologias da Informação", "Construção de Compiladores", "Redes de Computadores", "Sistemas Distribuídos"],
+	"curso": "Bibendum PC",
+	"ingresso": "2017-11-02",
+	"egresso": "2018-01-18",
+	"nascimento": "2018-08-25",
+	"cidade": "Rajahmundry",
+	"estado": "AP",
+	"pais": "Svalbard and Jan Mayen Islands"
+}
+POST catalogo/alunos
+{
+	"aluno": "Aristotle",
+	"disciplinasCursando":["Fundamentos Matemáticos da Computação", "Tecnologias da Informação"],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Redes de Computadores", "Tecnologias da Informação"],
+	"curso": "Nam Company",
+	"ingresso": "2019-08-11",
+	"egresso": "2018-11-14",
+	"nascimento": "2019-07-05",
+	"cidade": "Rockhampton",
+	"estado": "QLD",
+	"pais": "Albania"
+}
+POST catalogo/alunos
+{
+	"aluno": "Ingrid",
+	"disciplinasCursando":["Construção de Compiladores", "Sistemas Operacionais", "Sistemas Distribuídos"],
+	"disciplinasCursadas":[""],
+	"curso": "Malesuada Augue Foundation",
+	"ingresso": "2019-08-02",
+	"egresso": "2019-04-30",
+	"nascimento": "2018-08-15",
+	"cidade": "Maiduguri",
+	"estado": "BO",
+	"pais": "Spain"
+}
+POST catalogo/alunos
+{
+	"aluno": "Sonya",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Redes de Computadores", "Algoritmos e Programação de Computadores"],
+	"curso": "Dolor Donec Fringilla Incorporated",
+	"ingresso": "2019-03-19",
+	"egresso": "2018-12-07",
+	"nascimento": "2018-08-17",
+	"cidade": "Rennes",
+	"estado": "BR",
+	"pais": "El Salvador"
+}
+POST catalogo/alunos
+{
+	"aluno": "Keegan",
+	"disciplinasCursando":["Tecnologias da Informação", "Sistemas Distribuídos", "Redes de Computadores", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Tecnologias da Informação"],
+	"curso": "Elit Elit Foundation",
+	"ingresso": "2018-06-28",
+	"egresso": "2018-06-13",
+	"nascimento": "2018-05-14",
+	"cidade": "Tulsa",
+	"estado": "Oklahoma",
+	"pais": "Cayman Islands"
+}
+POST catalogo/alunos
+{
+	"aluno": "Nasim",
+	"disciplinasCursando":["Construção de Compiladores"],
+	"disciplinasCursadas":["Algoritmos e Programação de Computadores"],
+	"curso": "Sem Ut PC",
+	"ingresso": "2018-08-19",
+	"egresso": "2017-11-13",
+	"nascimento": "2019-04-30",
+	"cidade": "Cambridge",
+	"estado": "NI",
+	"pais": "Papua New Guinea"
+}
+POST catalogo/alunos
+{
+	"aluno": "Chadwick",
+	"disciplinasCursando":["Algoritmos e Programação de Computadores"],
+	"disciplinasCursadas":["Sistemas Distribuídos"],
+	"curso": "Sed Et Libero Corporation",
+	"ingresso": "2019-03-17",
+	"egresso": "2017-12-15",
+	"nascimento": "2017-11-04",
+	"cidade": "Queanbeyan",
+	"estado": "NSW",
+	"pais": "Heard Island and Mcdonald Islands"
+}
+POST catalogo/alunos
+{
+	"aluno": "Norman",
+	"disciplinasCursando":["Sistemas Distribuídos", "Algoritmos e Programação de Computadores", "Construção de Compiladores", "Redes de Computadores"],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Fundamentos Matemáticos da Computação", "Construção de Compiladores"],
+	"curso": "Aenean Sed Corporation",
+	"ingresso": "2018-09-08",
+	"egresso": "2019-04-10",
+	"nascimento": "2018-02-24",
+	"cidade": "San Antonio",
+	"estado": "Texas",
+	"pais": "Palestine, State of"
+}
+POST catalogo/alunos
+{
+	"aluno": "Noel",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Sistemas Distribuídos", "Tecnologias da Informação"],
+	"curso": "Ipsum Cursus Vestibulum Institute",
+	"ingresso": "2017-12-01",
+	"egresso": "2018-11-02",
+	"nascimento": "2019-02-09",
+	"cidade": "Kawerau",
+	"estado": "NI",
+	"pais": "Moldova"
+}
+POST catalogo/alunos
+{
+	"aluno": "Gavin",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":["Fundamentos Matemáticos da Computação", "Sistemas Operacionais", "Tecnologias da Informação", "Construção de Compiladores"],
+	"curso": "Suspendisse Non Foundation",
+	"ingresso": "2018-12-08",
+	"egresso": "2019-05-17",
+	"nascimento": "2019-05-03",
+	"cidade": "Boo",
+	"estado": "Stockholms län",
+	"pais": "Montserrat"
+}
+POST catalogo/alunos
+{
+	"aluno": "Sebastian",
+	"disciplinasCursando":[""],
+	"disciplinasCursadas":[""],
+	"curso": "Nisi Aenean Foundation",
+	"ingresso": "2018-06-21",
+	"egresso": "2018-08-12",
+	"nascimento": "2018-05-04",
+	"cidade": "Carapicuíba",
+	"estado": "São Paulo",
+	"pais": "Cambodia"
+}
+POST catalogo/alunos
+{
+	"aluno": "Jessica",
+	"disciplinasCursando":["Construção de Compiladores", "Sistemas Operacionais", "Fundamentos Matemáticos da Computação", "Redes de Computadores"],
+	"disciplinasCursadas":["Algoritmos e Programação de Computadores", "Redes de Computadores", "Sistemas Distribuídos"],
+	"curso": "Luctus Consulting",
+	"ingresso": "2018-10-05",
+	"egresso": "2019-04-03",
+	"nascimento": "2019-06-30",
+	"cidade": "Quesada",
+	"estado": "A",
+	"pais": "Jamaica"
+}
+POST catalogo/alunos
+{
+	"aluno": "Wang",
+	"disciplinasCursando":["Redes de Computadores", "Fundamentos Matemáticos da Computação", "Sistemas Operacionais", "Sistemas Distribuídos"],
+	"disciplinasCursadas":[""],
+	"curso": "Morbi Tristique Senectus LLP",
+	"ingresso": "2018-02-20",
+	"egresso": "2019-04-27",
+	"nascimento": "2017-12-11",
+	"cidade": "Cagnes-sur-Mer",
+	"estado": "Provence-Alpes-Côte d'Azur",
+	"pais": "Burundi"
+}
+POST catalogo/alunos
+{
+	"aluno": "Tara",
+	"disciplinasCursando":["Sistemas Distribuídos", "Tecnologias da Informação", "Fundamentos Matemáticos da Computação"],
+	"disciplinasCursadas":["Sistemas Operacionais", "Construção de Compiladores", "Sistemas Distribuídos"],
+	"curso": "Dapibus Corporation",
+	"ingresso": "2018-04-16",
+	"egresso": "2017-11-06",
+	"nascimento": "2019-09-09",
+	"cidade": "Sandy",
+	"estado": "Utah",
+	"pais": "Yemen"
+}
+POST catalogo/alunos
+{
+	"aluno": "Omar",
+	"disciplinasCursando":["Tecnologias da Informação", "Sistemas Distribuídos", "Algoritmos e Programação de Computadores", "Redes de Computadores"],
+	"disciplinasCursadas":["Construção de Compiladores", "Sistemas Distribuídos", "Redes de Computadores", "Fundamentos Matemáticos da Computação"],
+	"curso": "Ante Iaculis Nec Company",
+	"ingresso": "2018-08-16",
+	"egresso": "2018-10-01",
+	"nascimento": "2018-09-22",
+	"cidade": "Buguma",
+	"estado": "Rivers",
+	"pais": "Georgia"
+}
